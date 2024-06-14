@@ -1,6 +1,5 @@
-# BL+IADM for RGBT Crowd Counting 
+# Modality incremental learning method based on the RGBT Crowd Counting task
 
-We follow the official code of [Bayesian Loss for Crowd Count Estimation with Point Supervision (BL)](https://github.com/ZhihengCV/Bayesian-Crowd-Counting).
 
 ## Install dependencies
 torch >= 1.0 torchvision opencv numpy scipy, all the dependencies can be easily installed by pip or conda
